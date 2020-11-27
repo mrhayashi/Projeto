@@ -1,0 +1,39 @@
+estilo.css
+body {
+    background-color: rgb(180,180,180);
+    font-family: sans-serif;
+    text-decoration: unset;
+}
+
+#menu {
+
+font-size: 20px;
+color: blue;
+display: flex;
+text-decoration: unset;
+justify-content: space-between;
+margin-bottom: 30px;
+
+}  
+
+#Vacinas{
+
+display: flex;
+justify-content: space-between;
+text-decoration: unset;
+margin-bottom: 20px;
+
+}
+
+#Contato{
+
+background-color: aquamarine;
+
+}
+
+#Cabecalho2{
+
+color: blue;
+text-decoration: unset;
+
+}
