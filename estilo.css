@@ -16,6 +16,11 @@ margin-bottom: 30px;
 
 }  
 
+#Corpo{
+
+    text-align: justify;
+}
+
 #Vacinas{
 
 display: flex;
